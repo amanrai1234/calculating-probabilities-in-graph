@@ -1,4 +1,4 @@
-#Probability Calculator 
+##Probability Calculator 
 
 This Python script calculates a probability based on certain conditions using a JSON data file as input.
 
